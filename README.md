@@ -23,7 +23,7 @@
 <a href="https://twitter.com/nirmaabro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nirmaabro" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nirmaabro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nirmaabro" height="30" width="40" /></a>
 <a href="https://kaggle.com/nirmaabro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nirmaabro" height="30" width="40" /></a>
-<a href="https://fb.com/nirmaabro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nirmaabro" height="30" width="40" /></a>
+<a href="https://fb.com/nirmaabro" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg](https://sco.wikipedia.org/wiki/File:Facebook_f_logo_(2019).sv)" alt="nirmaabro" height="30" width="40" /></a>
 <a href="https://instagram.com/nirmaabro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nirmaabro" height="30" width="40" /></a>
 </p>
 
