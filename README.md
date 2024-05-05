@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://i.pinimg.com/originals/4c/44/39/4c443992f6106654fc270b3ca708d29e.png)
+[![MasterHead](https://i.pinimg.com/originals/4c/44/39/4c443992f6106654fc270b3ca708d29e.png)](https://i.pinimg.com/originals/4c/44/39/4c443992f6106654fc270b3ca708d29e.png)
 
 <h1 align="center">Hi 👋, I'm Nirma Abro</h1>
 <h3 align="center">A passionate Mern Stack Developer from Pakistan</h3>
