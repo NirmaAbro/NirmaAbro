@@ -2,12 +2,12 @@
 
 <h1 align="center">Hi 👋, I'm Nirma Abro</h1><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirmaabro&label=Profile%20views&color=0e75b6&style=flat" alt="nirmaabro" /> </p><br>
-<h3 align="center">A passionate Mern Stack Developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnE4ZHBsdnQ5ZjJ6dTdwNHZienYzeW56OTZsYTk0MWhoMGVxM3k0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qfiP3gjBmTvPFTT1Fx/giphy.gif">
+<h3 align="center">A passionate Mern Stack Developer from Pakistan</h3><br>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnE4ZHBsdnQ5ZjJ6dTdwNHZienYzeW56OTZsYTk0MWhoMGVxM3k0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qfiP3gjBmTvPFTT1Fx/giphy.gif"><br>
 
 
 <p align="left"> <a href="https://twitter.com/nirmaabro" target="blank"><img src="https://img.shields.io/twitter/follow/nirmaabro?logo=twitter&style=for-the-badge" alt="nirmaabro" /></a> </p>
-
+<br>
 - 🌱 I’m currently learning **ReactJS , NodeJS, MongoDB ,ExpressJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NirmaAbro/Nirma-Abro](https://github.com/NirmaAbro/Nirma-Abro)
