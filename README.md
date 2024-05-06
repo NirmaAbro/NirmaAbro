@@ -7,7 +7,7 @@
 
 
 <p align="left"> <a href="https://twitter.com/nirmaabro" target="blank"><img src="https://img.shields.io/twitter/follow/nirmaabro?logo=twitter&style=for-the-badge" alt="nirmaabro" /></a> </p>
-<br>
+<br><hr>
 - 🌱 I’m currently learning **ReactJS , NodeJS, MongoDB ,ExpressJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NirmaAbro/Nirma-Abro](https://github.com/NirmaAbro/Nirma-Abro)
